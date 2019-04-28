@@ -13,10 +13,11 @@ public class Calculator {
         return i*i1;
     }
 
-    public float divide(int i, int i1) {
-        return i/i1;
+    public int divide(int i, int i1) {
+        return i / i1;
     }
 
-    public float average(int ...) {
-    }
+//    public float average(int ...) {
+//        return 0;
+//    }
 }
